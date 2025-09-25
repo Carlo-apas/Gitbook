@@ -1,0 +1,9 @@
+# Terms and Conditions
+
+For standard warranty terms and conditions, see the following documents:
+
+* Declaration of Conformity CE
+
+[DoC-SensorbeeModbus.pdf100.0KB](https://image-forwarder.notaku.so/aHR0cHM6Ly9maWxlLm5vdGlvbi5zby9mL2YvOGE5YWVkMDYtZjg0NC00ZGU0LWI5NmItYzE1MjY5MzFjNTU3L2M5YjlmZWQyLTQ4OTAtNDQ1Mi1iZjQzLTU4NDMxNTYyYjlhZS9Eb0MtU2Vuc29yYmVlTW9kYnVzLnBkZj90YWJsZT1ibG9jayZpZD0wOGY5YmRmNi0zYzJkLTQ2ZDMtOWE2ZC01MTFmM2JmMWJkMWUmc3BhY2VJZD04YTlhZWQwNi1mODQ0LTRkZTQtYjk2Yi1jMTUyNjkzMWM1NTcmZXhwaXJhdGlvblRpbWVzdGFtcD0xNzU1Nzk5MjAwMDAwJnNpZ25hdHVyZT05WFRCT3dXbXhxRVBBRkxrSWU1YVV2Z3I0aVdNSXF2NEVBMy1XX1Z5NFJB.pdf?workspaceId=8a9aed06-f844-4de4-b96b-c1526931c557)
+
+{% file src="../../../.gitbook/assets/aHR0cHM6Ly9maWxlLm5vdGlvbi5zby9mL2YvOGE5YWVkMDYtZjg0NC00ZGU0LWI5NmItYzE1MjY5MzFjNTU3L2M5YjlmZWQyLTQ4OTAtNDQ1Mi1iZjQzLTU4NDMxNTYyYjlhZS9Eb0MtU2Vuc29yYmVlTW9kYnVzLnBkZj90YWJsZT1ibG9jayZpZD0wOGY5YmR.pdf" %}
